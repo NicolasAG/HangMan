@@ -2,7 +2,7 @@
 
 This is a simple game written in C.
 
-# installation:
+INSTALLATION:
 
 - download all files in a directory.
 
